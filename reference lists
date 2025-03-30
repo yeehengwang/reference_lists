@@ -1,13 +1,9 @@
-[1]Ning, Xinzhi, et al. "Learning beams adaptive to the environment: an RSRP-based codebook design." 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2023.
-[2]Rematas, Konstantinos, et al. "Urban radiance fields." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2022.
-[3]Mi, Hang, et al. "Measurement-based prediction of mmWave channel parameters using deep learning and point cloud." IEEE Open Journal of Vehicular Technology (2024).
-[4]Song, Junzhe, et al. "3D Environment Reconstruction Based on ISAC Channels." 2024 International Conference on Ubiquitous Communication (Ucom). IEEE, 2024.
-[5]Lu, Bohao, et al. "Deep learning based multi-node ISAC 4D environmental reconstruction with uplink-downlink cooperation." IEEE Internet of Things Journal (2024).
-[6]K. Haneda et al., “5G 3GPP-like channel models for outdoor urban microcellular and macrocellular environments,” in Proc. IEEE 83rd VTC Spring, May 2016, pp. 1–7.
-[7]Study on Channel Model for Frequencies From 0.5 to 100 GHz (Release 16), document TR 38.901, 3GPP, Version 16.1.0, Jan. 2020.
-[8]P. Stoica, R. L. Moses et al., Spectral analysis of signals. Pearson Prentice Hall Upper Saddle River, NJ, 2005, vol. 452.
-[9]Zhao, X., An, Z., Pan, Q. and Yang, L., 2023, October. Nerf2: Neural radio-frequency radiance fields. In Proceedings of the 29th Annual International Conference on Mobile Computing and Networking (pp. 1-15).
-[10]D. J. Love and R. W. Heath Jr., “Limited feedback unitary precoding for spatial multiplexing systems,” IEEE Trans. Inf. Theory, vol. 51, no. 8, pp. 2967–2976, Aug. 2005.
-[11]Sun, Yutong, et al. "Environment features-based model for path loss prediction." IEEE Wireless Communications Letters 11.9 (2022): 2010-2014.
-[12]Zeng, Yong, et al. "A tutorial on environment-aware communications via channel knowledge map for 6G." IEEE communications surveys & tutorials 26.3 (2024): 1478-1519.
-[13]Lin, Wei, and Richard W. Ziolkowski. "High-directivity, compact, omnidirectional horizontally polarized antenna array." IEEE Transactions on Antennas and Propagation 68.8 (2020): 6049-6058.
+[1]Song, Junzhe, et al. "3D Environment Reconstruction Based on ISAC Channels." 2024 International Conference on Ubiquitous Communication (Ucom). IEEE, 2024.
+[2]Lu, Bohao, et al. "Deep learning based multi-node ISAC 4D environmental reconstruction with uplink-downlink cooperation." IEEE Internet of Things Journal (2024).
+[3]Ning, Xinzhi, et al. "Learning beams adaptive to the environment: an RSRP-based codebook design." 2023 IEEE 24th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2023.
+[4]D. J. Love and R. W. Heath Jr., “Limited feedback unitary precoding for spatial multiplexing systems,” IEEE Trans. Inf. Theory, vol. 51, no. 8, pp. 2967–2976, Aug. 2005.
+[5]Sun, Yutong, et al. "Environment features-based model for path loss prediction." IEEE Wireless Communications Letters 11.9 (2022): 2010-2014.
+[6]Zeng, Yong, et al. "A tutorial on environment-aware communications via channel knowledge map for 6G." IEEE communications surveys & tutorials 26.3 (2024): 1478-1519.
+[7]Lin, Wei, and Richard W. Ziolkowski. "High-directivity, compact, omnidirectional horizontally polarized antenna array." IEEE Transactions on Antennas and Propagation 68.8 (2020): 6049-6058.
+
+
